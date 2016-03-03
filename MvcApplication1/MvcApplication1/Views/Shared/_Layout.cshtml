@@ -1,0 +1,27 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=utf-8>
+    <title>_Layout</title>
+    <link rel="stylesheet" type="text/css" href="~/Contents/main.css">
+    <meta name="viewport" content="width=device-width" />
+</head>
+<body>
+    <div id="menu-bg">
+        <ul id="menu">
+            <li>@Html.ActionLink("<", "Index", "Home")
+            <li>@Html.ActionLink("зачем", "WhatFor", "Home")
+            <li>@Html.ActionLink("кто", "Index", "About")
+            <li>@Html.ActionLink("полезное", "Useful", "Home")
+            <li>@Html.ActionLink("еще фотографии", "Photos", "Home")
+        </ul>
+    </div>
+    <div id="next">
+    </div>
+    <div id="content">
+        @RenderBody()
+    </div>
+</body>
