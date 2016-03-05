@@ -1,0 +1,55 @@
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Newtonsoft.Json.dll
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Net.Http.Formatting.dll
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Helpers.dll
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Http.dll
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Http.WebHost.dll
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.dll
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Razor.dll
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.dll
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Newtonsoft.Json.xml
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Net.Http.Formatting.xml
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Helpers.xml
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Http.xml
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Http.WebHost.xml
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.xml
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Razor.xml
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.xml
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+d:\users\itp1245\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll.config
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\Newtonsoft.Json.dll
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\System.Net.Http.Formatting.dll
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\System.Web.Helpers.dll
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\System.Web.Http.dll
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\System.Web.Http.WebHost.dll
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.dll
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\System.Web.Razor.dll
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.dll
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\Newtonsoft.Json.xml
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\System.Net.Http.Formatting.xml
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\System.Web.Helpers.xml
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\System.Web.Http.xml
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\System.Web.Http.WebHost.xml
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.xml
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\System.Web.Razor.xml
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.xml
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+F:\Облачные хранилища\Яндекс.Диск\!work\Курсы\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
